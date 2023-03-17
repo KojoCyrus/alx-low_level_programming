@@ -1,7 +1,7 @@
 #include  <stdio.h>
 
 /**
- *main-This is my first C program 
+ *main - This is my first C program
  *
  *Return: Always 0 (Success)
  */
