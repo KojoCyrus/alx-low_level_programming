@@ -1,6 +1,10 @@
 #include  <stdio.h>
-/*I am printing a line using hte puts instead of printf*/
 
+/**
+ *main-This is my first C program 
+ *
+ *Return: Always 0 (Success)
+ */
 int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");
