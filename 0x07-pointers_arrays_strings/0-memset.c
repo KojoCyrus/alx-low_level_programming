@@ -3,8 +3,8 @@
 /**
 *_memset - fills the first n bytes of the memory area
 *@s: is a memory area
-*@b: is a value that is going to be copied
-*@n: number of times to for b to be copied
+*@b: is the value that is desired
+*@n: is number of the bytes that is going to be changed
 *
 *Return: s
 */
