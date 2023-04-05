@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
-*factorial - factorial of a given number
+*factorial - returns the factorial of a given number
 *@n: number of times
-*retun: factorial of  the number
+*return: factorial of  the number
 */
 
 int factorial(int n)
