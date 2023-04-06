@@ -3,6 +3,7 @@
 /**
 *_sqrt_recursion - returns the natural square root of a number
 *@n:  does not have a natural square root
+**@i: iterator
 *
 *Return: -1 (success)
 */
