@@ -50,11 +50,11 @@ int i, d, n, len, f, digit;
 
 
 /**
-*main - 
+*main - prints the result of a multiplication
 *@argc: counts arguments
 *@argv: argument variables
 *
-*Return 0 (success)
+*Return: 0 (success)
 */
 
 int main(int argc, char *argv[])
