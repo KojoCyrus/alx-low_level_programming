@@ -72,7 +72,7 @@ int main(int argc, char *argv[])
 	num2 = _twonum(argv[2]);
 	result = num1 * num2;
 
-	printf("the result of the multiplication is %d\n", result);
+	printf("%d\n", result);
 
 	return (0);
 }
