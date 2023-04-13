@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+/*main - entry point of code*/
 int main(void)
 {
 int n;
