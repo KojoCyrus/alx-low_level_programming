@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include "main.h"
 /**
-*is_digit  checks if a sting contains something else but number
+*is_digit - checks if a sting contains something else but number
 *@a: thisis the string we're gonna evaluate
 *Return: 0 if a non-digit is found, if not, then 1
 */
