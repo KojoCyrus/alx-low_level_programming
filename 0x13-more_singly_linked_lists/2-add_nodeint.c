@@ -6,6 +6,8 @@
 *@head: is a pointer at the beginning f the list
 *@n: this is the data we will be inserting in the new node
 *
+*Return: should return the pointer to a new node
+*else should return NULL
 */
 listint_t *add_nodeint(listint_t **head, const int n)
 {
